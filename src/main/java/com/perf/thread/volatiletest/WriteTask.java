@@ -1,8 +1,6 @@
-package com.esbook.thread.volatiletest;
+package com.perf.thread.volatiletest;
 
 import java.util.function.BiConsumer;
-import java.util.function.Function;
-import java.util.function.ToLongBiFunction;
 
 //read more and write less
 public class WriteTask  implements Runnable{

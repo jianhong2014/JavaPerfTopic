@@ -1,4 +1,4 @@
-package com.esbook.esprobe;
+package com.perf.esprobe;
 
 import java.lang.management.ManagementFactory;
 import java.lang.management.OperatingSystemMXBean;

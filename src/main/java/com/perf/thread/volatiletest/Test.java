@@ -1,4 +1,4 @@
-package com.esbook.thread.volatiletest;
+package com.perf.thread.volatiletest;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

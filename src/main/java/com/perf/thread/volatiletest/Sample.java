@@ -1,4 +1,4 @@
-package com.esbook.thread.volatiletest;
+package com.perf.thread.volatiletest;
 
 public class Sample {
     private   int a;

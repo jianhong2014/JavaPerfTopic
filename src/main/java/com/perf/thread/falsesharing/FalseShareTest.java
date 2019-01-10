@@ -1,4 +1,4 @@
-package com.esbook.thread.falsesharing;
+package com.perf.thread.falsesharing;
 
 public class FalseShareTest implements Runnable {
     public static int NUM_THREADS = 4;

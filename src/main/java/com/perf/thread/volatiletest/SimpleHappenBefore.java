@@ -1,4 +1,4 @@
-package com.esbook.thread.volatiletest;
+package com.perf.thread.volatiletest;
 
 public class SimpleHappenBefore {
     /** 这是一个验证结果的变量 */

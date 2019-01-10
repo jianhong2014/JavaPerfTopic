@@ -1,4 +1,4 @@
-package com.esbook.thread.falsesharing;
+package com.perf.thread.falsesharing;
 
 public class NoFalseSharigContendJob implements Runnable{
     //此job要修改自己的index，如果数组里面的每一个元素都占用一行cacheline

@@ -1,4 +1,4 @@
-package com.esbook.thread.volatiletest;
+package com.perf.thread.volatiletest;
 
 public class SharedObject {
     //成员变量控制线程是否干活

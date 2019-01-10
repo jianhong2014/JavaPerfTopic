@@ -1,4 +1,4 @@
-package com.esbook.thread.falsesharing;
+package com.perf.thread.falsesharing;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.esbook.thread.falsesharing;
+package com.perf.thread.falsesharing;
 
 
 //代价就是牺牲了空间，换时间

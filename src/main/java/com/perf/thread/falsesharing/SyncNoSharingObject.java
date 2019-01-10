@@ -1,4 +1,4 @@
-package com.esbook.thread.falsesharing;
+package com.perf.thread.falsesharing;
 
 public class SyncNoSharingObject {
     private  long value = 0L;

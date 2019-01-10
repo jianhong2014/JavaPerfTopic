@@ -1,4 +1,4 @@
-package com.esbook.thread.falsesharing;
+package com.perf.thread.falsesharing;
 
 public class SyncNoSharingJob implements Runnable{
     private int modifyIdx =0;
